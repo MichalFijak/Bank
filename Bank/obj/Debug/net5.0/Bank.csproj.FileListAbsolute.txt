@@ -1,0 +1,16 @@
+A:\C#\Testy\Bank\Bank\obj\Debug\net5.0\Bank.csproj.AssemblyReference.cache
+A:\C#\Testy\Bank\Bank\obj\Debug\net5.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#\Testy\Bank\Bank\obj\Debug\net5.0\Bank.AssemblyInfoInputs.cache
+A:\C#\Testy\Bank\Bank\obj\Debug\net5.0\Bank.AssemblyInfo.cs
+A:\C#\Testy\Bank\Bank\obj\Debug\net5.0\Bank.csproj.CoreCompileInputs.cache
+A:\C#\Testy\Bank\Bank\bin\Debug\net5.0\Bank.exe
+A:\C#\Testy\Bank\Bank\bin\Debug\net5.0\Bank.deps.json
+A:\C#\Testy\Bank\Bank\bin\Debug\net5.0\Bank.runtimeconfig.json
+A:\C#\Testy\Bank\Bank\bin\Debug\net5.0\Bank.runtimeconfig.dev.json
+A:\C#\Testy\Bank\Bank\bin\Debug\net5.0\Bank.dll
+A:\C#\Testy\Bank\Bank\bin\Debug\net5.0\ref\Bank.dll
+A:\C#\Testy\Bank\Bank\bin\Debug\net5.0\Bank.pdb
+A:\C#\Testy\Bank\Bank\obj\Debug\net5.0\Bank.dll
+A:\C#\Testy\Bank\Bank\obj\Debug\net5.0\ref\Bank.dll
+A:\C#\Testy\Bank\Bank\obj\Debug\net5.0\Bank.pdb
+A:\C#\Testy\Bank\Bank\obj\Debug\net5.0\Bank.genruntimeconfig.cache
